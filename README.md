@@ -46,7 +46,7 @@ Agora ficou mais fácil ter o serviço de cotações do Melhor Envio no seu proj
 Você pode instalar o pacote via composer, rodando o seguinte comando:
 
 ```bash
-composer require melhorenvio/shipment-sdk-php
+composer require hugomarques62/shipment-sdk-php
 ```
 
 ## Configuração inicial
